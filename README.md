@@ -4,4 +4,5 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 
 
 [Here's my explanation on sequencing](https://youtu.be/piBfQyDHkxU)
+
 [Here's my explanation on repeats](https://youtu.be/kdenRu3vnek)
