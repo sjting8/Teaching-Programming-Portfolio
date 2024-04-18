@@ -10,3 +10,5 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 [Here's my quest video explanation](https://youtu.be/R-jnraDUDF4)
 
 [Here's my nested repeat video explanation](https://youtu.be/ouQT1Q3r0yE)
+
+[Here's my events video explanation](https://youtu.be/ur8pWPDGQTg)
