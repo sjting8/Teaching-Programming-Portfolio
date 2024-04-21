@@ -12,3 +12,6 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 [Here's my nested repeat video explanation](https://youtu.be/ouQT1Q3r0yE)
 
 [Here's my events video explanation](https://youtu.be/ur8pWPDGQTg)
+
+[Here's my variable video explanation](https://youtu.be/yNqj3IKdBmE)
+
