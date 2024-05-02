@@ -16,3 +16,5 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 [Here's my variable video explanation](https://youtu.be/yNqj3IKdBmE)
 
 [Here's my conditional repeats video explanation](https://youtu.be/AgBU7XGVktA)
+
+[Here's my if else video explanation](https://youtu.be/w8be6de0cWM)
