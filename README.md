@@ -21,3 +21,5 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 
 [Here's my nested if else video explanation](https://youtu.be/xkb1Z51mmdw)
 
+
+[Here's my compound conditionals video explanation](https://youtu.be/YPTPv-u3yRQ)
