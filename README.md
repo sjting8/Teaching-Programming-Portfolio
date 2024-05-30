@@ -23,4 +23,4 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 
 [Here's my compound conditionals video explanation](https://youtu.be/YPTPv-u3yRQ)
 
-[Here's my compound conditionals video explanation](https://youtu.be/ttuhFBRndG4)
+[Here's my abstraction video explanation](https://youtu.be/ttuhFBRndG4)
