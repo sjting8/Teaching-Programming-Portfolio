@@ -25,4 +25,4 @@ Hello, I'm Sean, an undergraduate currently studying computer science. This is m
 
 [Here's my abstraction video explanation](https://youtu.be/ttuhFBRndG4)
 
-[Here's my abstraction video explanation](https://youtu.be/ttuhFBRndG4)
+[Here's my lists video explanation](https://youtu.be/xZj8wNk9fyE)
